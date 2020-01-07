@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/latte/latte" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/nette/application" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/nette/bootstrap" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/nette/caching" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/nette/component-model" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/nette/di" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/nette/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/nette/forms" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/nette/http" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/nette/neon" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/nette/php-generator" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/nette/robot-loader" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/nette/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/nette/schema" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/nette/utils" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/tracy/tracy" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

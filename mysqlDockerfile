@@ -1,0 +1,11 @@
+FROM mariadb:10.1.43
+
+ENV MYSQL_VERSION=5.7.26 \
+    MYSQL_DATA_DIR=/var/lib/mysql \
+    MYSQL_RUN_DIR=/run/mysqld \
+    MYSQL_LOG_DIR=/var/log/mysql \
+    MYSQL_ROOT_PASSWORD=.sweetpwd. \
+    MYSQL_DATABASE=ceskykutil \
+    MYSQL_USER=db_user \
+    MYSQL_PASSWORD=.mypwd
+
